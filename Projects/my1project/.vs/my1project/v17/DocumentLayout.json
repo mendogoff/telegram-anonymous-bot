@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mendo\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\my1project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDDD7CB-6034-489E-BB73-DE6A4764520C}|my1project\\my1project.vcxproj|C:\\Users\\mendo\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\my1project\\my1project\\m1p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EDDD7CB-6034-489E-BB73-DE6A4764520C}|my1project\\my1project.vcxproj|solutionrelative:my1project\\m1p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "m1p.cpp",
+              "DocumentMoniker": "C:\\Users\\mendo\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\my1project\\my1project\\m1p.cpp",
+              "RelativeDocumentMoniker": "my1project\\m1p.cpp",
+              "ToolTip": "C:\\Users\\mendo\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Projects\\my1project\\my1project\\m1p.cpp",
+              "RelativeToolTip": "my1project\\m1p.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T12:15:08.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
